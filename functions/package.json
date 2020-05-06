@@ -51,7 +51,7 @@
     "firebase-functions": "^3.6.1",
     "google-auth-library": "^4.2.5",
     "google-libphonenumber": "^3.2.5",
-    "googleapis": "^47.0.0",
+    "googleapis": "^50.0.0",
     "handlebars": "^4.7.6",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
