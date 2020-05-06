@@ -1600,7 +1600,7 @@ const growthfileMsRequester = async ({
     json: true,
     headers: {
       'content-type': 'application/json',
-      Authorization: `Bearer ${env.growthfileMsToken}`,
+      authorization: `Bearer ${env.growthfileMsToken}`,
     },
   }).catch(error => {
     console.error({
